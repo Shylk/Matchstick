@@ -5,9 +5,9 @@ Project made in __C__.
 
 ## Introduction
 ### Usage
-./matchstick [Number of lines] [Max matchstick removed per turn]
+__./matchstick [Number of lines] [Max matchstick removed per turn]__
 ### Rules
-
+The first argument (number of lines) will be greater than 1 and under 100.
 The two players take turns; each player can, on a same line, take one or several matchsticks.<br />
 The losing player is the one to take the last matchstick.<br />
 
